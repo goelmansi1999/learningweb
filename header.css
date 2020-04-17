@@ -1,0 +1,29 @@
+h1{
+	font-family:'ZCOOL XiaoWei', serif;
+
+    transform:translate(40px,250px);
+    font-size:50px; 
+    color:#FDFEFE; 
+    text-shadow:4px 2px #000000; 
+
+}
+header{
+background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.2)),url("assests/code1.jpeg");
+height:100vh;
+background-size:cover;
+background-position:center;
+
+
+}
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border; 
+}
+
+
+a{
+	text-decoration: none;
+	color:	#0A1E53;
+	font-weight:10px;
+}

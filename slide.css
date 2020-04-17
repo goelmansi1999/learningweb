@@ -1,0 +1,35 @@
+.last{
+    position :relative;
+
+    margin-left:600px;
+    margin-top:25px;
+}
+.enroll{
+    position:relative;
+    margin-left:670px;
+    margin-top:10px;
+   
+}
+.text-1{
+    font-family: 'Signika', sans-serif;
+    font-size: 23px;
+}
+button{
+    background-color:#505152;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   
+    cursor: pointer;
+     
+}
+.end{
+    margin-top:10px;
+    width: 100%;
+    height:60px;
+    background-color: #2b2b2a;
+}

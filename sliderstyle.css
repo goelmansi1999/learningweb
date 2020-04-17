@@ -1,0 +1,146 @@
+.slider
+{
+	height :250px;
+	width:100%;
+	/*background-image:linear-gradient(to bottom right,rgba(0,0,0,0.9),rgba(28,17,56,0.9),rgba(119,120,122,0.9));*/
+	margin: 0;
+
+}
+.inside1
+{
+	height:170px;
+	width:170px;
+	float:left;
+	margin: 40px 30px 20px 30px ;
+	border-radius: 30% ;
+	background-image: url("assests/html.png");
+	background-size:170px 170px; 
+	animation-name: slider1;
+	animation-duration: 5s;
+	position: relative;
+	animation-fill-mode: forwards;
+	animation-iteration-count: 5;
+
+	
+	
+	
+}
+.inside2
+{
+	height:170px;
+	width:170px;
+	float:left;
+	margin: 40px 30px 20px 30px ;
+	border-radius: 30% ;
+	background-image: url("assests/css1.png");
+	background-size:170px 170px; 
+	animation-name: slider2;
+	animation-duration: 5s;
+	position: relative;
+	animation-fill-mode: forwards;
+animation-iteration-count: 5;
+
+
+}
+
+.inside3
+{
+	height:170px;
+	width:170px;
+	float:left;
+	margin: 40px 30px 20px 30px ;
+	border-radius: 30% ;
+	background-image: url("assests/js.png");
+	background-size:170px 170px; 
+	animation-name: slider3;
+	animation-duration: 5s;
+	position: relative;
+	animation-fill-mode: forwards;
+	animation-iteration-count: 5;
+	
+}
+.inside4
+{
+	height:170px;
+	width:170px;
+	float:left;
+	margin: 40px 30px 20px 30px ;
+	border-radius: 30% ;
+	background-image: url("assests/php1.png");
+	background-size:170px 170px; 
+	animation-name: slider4;
+	animation-duration: 5s;
+	position: relative;
+	animation-fill-mode:forwards; 
+	animation-iteration-count: 5;
+
+}
+.inside5
+{
+	height:170px;
+	width:170px;
+	float:left;
+	margin: 40px 30px 20px 30px ;
+	border-radius: 30% ;
+	background-image: url("assests/angular.png");
+	background-size:170px 170px; 
+	animation-name: slider5;
+	animation-duration: 5s;
+	position: relative;
+	animation-fill-mode:forwards; 
+	animation-iteration-count: 5;
+	
+
+}
+.inside6
+{
+	height:170px;
+	width:170px;
+	float:left;
+	margin: 40px 30px 20px 30px ;
+	border-radius: 30% ;
+	background-image: url("assests/nodejs.png");
+	background-size:170px 170px; 
+	animation-name: slider6;
+	animation-duration: 5s;
+	position: relative;
+	animation-fill-mode:forwards; 
+	animation-iteration-count: 5;
+	
+	
+}
+
+
+@keyframes slider1{
+	0% {left:0px;}
+	100%{left:230px;}
+
+}
+
+
+@keyframes slider2{
+	0% {right:0px;}
+	100%{right:230px;}
+}
+@keyframes slider3{
+	0% {left:0px}
+	100%{left:230px;}
+}
+@keyframes slider4{
+	0% {right:0px;}
+	100%{right:230px;}
+}
+@keyframes slider5{
+	0% {left:0px}
+	100%{left:230px;}
+}
+@keyframes slider6{
+	0% {right:0px}
+	100%{right:230px;}
+}*/
+
+*{
+	margin:0;
+}
+
+
